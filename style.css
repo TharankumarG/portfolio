@@ -256,7 +256,7 @@ footer {
     padding: 15px;
   }
   #nav-name{
-    font-size: 20px;
+    font-size: 10px;
   }
 
   #menu-icon {
@@ -309,5 +309,6 @@ footer {
     width: 100%;
   }
 }
+
 
 
